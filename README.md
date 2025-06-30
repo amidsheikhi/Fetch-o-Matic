@@ -37,3 +37,14 @@ Automated file downloader Telegram bot using n8n and direct link parsing
 ## 📄 License
 
 MIT License — free to use, modify, and distribute.
+
+
+## 📥 Download the Workflow
+
+You can download the workflow file here:  
+➡️ [n8n-telegram-autodl-workflow.json](./n8n-telegram-autodl-workflow.json)
+
+Add download link to n8n workflow
+
+
+
